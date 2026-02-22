@@ -1,6 +1,6 @@
 title: aut0arch Documentation
 description: Automated architecture discovery and explanation pipeline.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://aut0arch.github.io/docs # Update this if deploying to a different URL
 
