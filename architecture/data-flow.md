@@ -1,3 +1,9 @@
+---
+title: Data Flow Pipeline
+parent: Architecture
+nav_order: 2
+---
+
 # Data Flow Pipeline
 
 The system is currently operated sequentially under the `server` orchestrator. The typical execution data flow proceeds as follows:

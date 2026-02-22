@@ -1,3 +1,9 @@
+---
+title: LLM Explainer
+parent: Modules
+nav_order: 4
+---
+
 # LLM Explainer
 
 The `explainer` module operates at the boundary of semantic source code and human language.

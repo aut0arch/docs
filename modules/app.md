@@ -1,3 +1,9 @@
+---
+title: Frontend App
+parent: Modules
+nav_order: 5
+---
+
 # Frontend App
 
 The `app` module is a modern, responsive web application that visualizes the final output of the `aut0arch` system.

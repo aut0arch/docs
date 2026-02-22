@@ -1,3 +1,9 @@
+---
+title: Overview
+parent: Architecture
+nav_order: 1
+---
+
 # System Architecture Overview
 
 `aut0arch` uses a modular pipeline system designed to break down the monolithic task of full-stack reverse-engineering into manageable, focused steps. Each part of the pipeline executes iteratively and feeds data forward into the next component.

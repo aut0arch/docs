@@ -1,3 +1,9 @@
+---
+title: Server Orchestrator
+parent: Modules
+nav_order: 1
+---
+
 # Server Orchestrator
 
 The `server` module is a lightweight Python Flask backend that acts as the traffic controller for the `aut0arch` system.

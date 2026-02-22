@@ -1,3 +1,9 @@
+---
+title: Semantic Parser
+parent: Modules
+nav_order: 2
+---
+
 # Semantic Parser
 
 The `parser` module is responsible for analyzing raw source code and constructing a highly granular semantic relationship graph.

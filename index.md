@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 # aut0arch Documentation
 
 Welcome to the official documentation for **aut0arch**!

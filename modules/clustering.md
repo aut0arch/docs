@@ -1,3 +1,9 @@
+---
+title: Clustering Engine
+parent: Modules
+nav_order: 3
+---
+
 # Clustering Engine
 
 The `clustering` module takes the highly-granular semantic graph produced by the `parser` and abstracts it into cohesive architectural modules.
