@@ -17,7 +17,7 @@ The `aut0arch` system adopts a pipelined Microservices Strategy, ensuring no sin
 2. **Structural Inference (`clustering`)**
     Grouping the extracted data mathematically based on connection strength to infer higher-level structures.
 3. **Semantic Analysis (`explainer`)**
-    Examining the groups structurally created and determining their purpose using an AI language model context window.
+    Examining the groups structurally created and determining their purpose using an AI language model context window (either Cloud or Local).
 4. **Information Synthesis (`app`)**
     Rendering a comprehensive interactive visual artifact representing the combined extracted structure and AI analysis.
 5. **Coordination (`server`)**
