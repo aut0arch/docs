@@ -14,7 +14,7 @@ Its primary responsibility is to accept an analysis request from the frontend ap
 ## API Endpoints
 The server currently exposes a single REST endpoint:
 * `POST /analyze`
-  * **Payload:** `{ "url": "https://github.com/user/repo.git" }`
+  * **Payload:** `{ "url": "https://github.com/user/repo.git", "model": "gemini" }` (Note: `model` is optional, defaults to `"gemini"`, but can be set to `"ollama"`)
   * **Response:** `{ "status": "success", "message": "Analysis complete" }`
 
 ## Error Handling & Logging
