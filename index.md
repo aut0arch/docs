@@ -30,4 +30,6 @@ The `aut0arch` ecosystem consists of 5 specialized microservices:
 * **explainer**: The AI-integration layer that writes human-readable descriptions.
 * **app**: The React frontend that visualizes the final architecture.
 
+To get started, please refer to the [Installation via Docker](./installation.md) guide.
+
 To learn more about how they work together, head over to the [Architecture Overview](architecture/overview.md).
