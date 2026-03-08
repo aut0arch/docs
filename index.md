@@ -28,7 +28,7 @@ The `aut0arch` ecosystem consists of 5 specialized microservices:
 * **parser**: The engine that reads code and builds the raw dependency graph.
 * **clustering**: The tool that abstracts the raw graph into architectural components.
 * **explainer**: The AI-integration layer that writes human-readable descriptions.
-* **app**: The React frontend that visualizes the final architecture.
+* **app**: The Next.js frontend that visualizes the final architecture.
 
 To get started, please refer to the [Installation via Docker](./installation.md) guide.
 

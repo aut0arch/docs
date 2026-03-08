@@ -44,7 +44,7 @@ docker-compose up --build -d
 
 This will build two containers:
 1.  **Backend:** A Python 3.10 environment that installs all dependencies for the server, parser, clustering, and explainer.
-2.  **Frontend:** A Node.js 20 environment that runs the Vite development server.
+2.  **Frontend:** A Node.js 20 environment that runs the Next.js development server.
 
 ## Step 4: Access the Application
 

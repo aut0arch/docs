@@ -14,7 +14,7 @@ graph TD;
     B --> C(Parser);
     C -- "graph.json (Granular Tree)" --> D(Clustering Engine);
     D -- "clustered_structure.json" --> E(LLM Explainer);
-    E -- "clustering_data.json (AI Enhanced)" --> F(React Frontend App);
+    E -- "clustering_data.json (AI Enhanced)" --> F(Next.js Frontend App);
     F --> G[User Explores Visual Graph];
 ```
 

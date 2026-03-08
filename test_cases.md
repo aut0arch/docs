@@ -65,7 +65,7 @@ This document outlines the test cases for the 5 core components (repositories) o
 
 ### Unit Tests
 - **TC-APP-01:** **Missing Data State.** Load the application without `clustering_data.json` available or when the data inside is empty. **Expected:** The UI displays an appropriate loading state, "Upload URL" prompt, or a friendly graphic rather than crashing.
-- **TC-APP-02:** **Node Rendering.** Provide mock `clustering_data.json` containing 3 valid modular pipeline items. **Expected:** Checks that the Cytoscape canvas correctly mounts exactly 3 graph nodes.
+- **TC-APP-02:** **Node Rendering.** Provide mock `clustering_data.json` containing 3 valid modular pipeline items. **Expected:** Checks that the React Flow canvas correctly mounts exactly 3 graph nodes.
 - **TC-APP-03:** **Side Panel Populating.** Simulate a click metric on a visualized node. **Expected:** Exposes and slides in the side panel populating accurate `title`, `role`, `inputs`, `outputs`, and `code_evidence` mapped to the interacted node ID.
 
 ### Integration Tests
