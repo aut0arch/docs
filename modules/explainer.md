@@ -13,7 +13,7 @@ Traditional reverse-engineering tools output massive dependency graphs that are 
 
 It iterates through each generated cluster and collects the source code content of all encompassed files. It feeds this bulk text block directly to an AI language model alongside a finely-tuned system prompt asking for a high-level architectural overview. 
 
-By default, the explainer uses Google Gemini (`gemini-flash-latest`), but it also natively supports running locally via Ollama (`gemma3:270m`) for users who need enhanced privacy or offline capabilities.
+By default, the explainer uses Google Gemini (`gemini-flash-latest`), but it also natively supports running locally via Ollama (e.g., `gemma3:270m`, `qwen3.5:2b`) for users who need enhanced privacy or offline capabilities.
 
 ### Supported Models
 - **Gemini (Cloud):** Fast, large context window. Requires \`GOOGLE_API_KEY\` in the \`.env\` file.
