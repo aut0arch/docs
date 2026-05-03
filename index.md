@@ -33,3 +33,5 @@ The `aut0arch` ecosystem consists of 5 specialized microservices:
 To get started, please refer to the [Installation via Docker](./installation.md) guide.
 
 To learn more about how they work together, head over to the [Architecture Overview](architecture/overview.md).
+
+To see performance metrics and scaling behavior, view the [Benchmarks](./benchmarks.md).
