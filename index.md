@@ -35,3 +35,5 @@ To get started, please refer to the [Installation via Docker](./installation.md)
 To learn more about how they work together, head over to the [Architecture Overview](architecture/overview.md).
 
 To see performance metrics and scaling behavior, view the [Benchmarks](./benchmarks.md).
+
+For cost estimation across popular LLM providers, see the [Token Cost Analysis](./cost_analysis.md).
